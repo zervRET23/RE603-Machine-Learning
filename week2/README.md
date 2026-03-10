@@ -1,7 +1,7 @@
 # RE603-Machine-Learning
 
-Week 2 Assignment
-Tugas Week 2 membahas dasar-dasar Python sebagai fondasi untuk Machine Learning.
+Week 2 
+Week 2 membahas dasar-dasar Python sebagai fondasi untuk Machine Learning.
 
 ## Materi
 
